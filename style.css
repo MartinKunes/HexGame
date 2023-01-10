@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    flex-basis: content;
+    direction: inherit;
+    justify-content: center;
+    float: contour;
+}
+
